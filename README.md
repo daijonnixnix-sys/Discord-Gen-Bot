@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/VatosV2/Discord-Gen-Bot">
-    <img src="https://nexustools.de/Assets/images/025111e73c9100f75a2f4adfc06161df.png" alt="Logo" width="80" height="80">
+    <img src="https://www.nexustools.store/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[Nexus Gen Bot] - discord.gg/nexustools</h3>
@@ -20,10 +20,6 @@
 
 ## Screenshot
 ![ss](https://repository-images.githubusercontent.com/803993834/39e7da65-32b2-49cc-b832-fce6f563eae0)
-
-## Release
-- 25 Stars For Release ⭐ ✅
-- 50 Stars For V2 ⭐ ❌
 
 ## Functions
 ```yaml
